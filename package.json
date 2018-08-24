@@ -1,0 +1,12 @@
+{
+	"name": "point-bot",
+	"version": "1.0.0",
+	"description": "Point Tracking Bot",
+	"main": "bot.js",
+	"author": "Weiss One",
+	"permissions": "116736",
+	"dependencies": {
+		"discord.io": "github:woor/discord.io#gateway_v6",
+		"winston": "^3.0.0"
+	}
+}
